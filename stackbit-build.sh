@@ -11,4 +11,4 @@ else
 fi
 jekyll build
 
-exit 1
+exit 2
